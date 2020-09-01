@@ -4,6 +4,6 @@
  - cd TermuxTools && chmod +x TermuxTools.sh && ./TermuxTools.sh
  
 # :: ฟีเจอร์ต่างๆ ::
-[x] เปลี่ยนสี เปลี่ยนฟ้อนท์ได้
+[ x ] เปลี่ยนสี เปลี่ยนฟ้อนท์ได้
  
-[x] เพิ่ม termux kali-nethunter [สามารถใช้คำสั่งต่างๆได้เหมือนกับ kali pc]
+[ x ] เพิ่ม termux kali-nethunter [สามารถใช้คำสั่งต่างๆได้เหมือนกับ kali pc]
