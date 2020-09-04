@@ -17,7 +17,7 @@ fail=$"$green[$red-$green]"
 #Author name 
 author="ERROR 404 / RetroSec"
 
-pkg install -y toilet python && pip install lolcat
+cp .bashrc && $HOME/.bashrc && pkg update && pkg update && pkg install -y toilet python && pip install lolcat
 
 clear && toilet -F border TERMUX | lolcat 
 
